@@ -28,3 +28,27 @@ h2 {
     color: #ff8641;
   }
 }
+
+@media (min-width: 768px) {
+  h1 {
+    color: #02cbd2;
+  }
+  h2 {
+    color: #fcc02a;
+  }
+  h3 {
+    color: #7b8f8e;
+  }
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    color: #6e4b61;
+  }
+  h2 {
+    color: #cabd61;
+  }
+  h3 {
+    color: #c19e74;
+  }
+}
