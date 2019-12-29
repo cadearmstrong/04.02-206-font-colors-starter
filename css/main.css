@@ -19,6 +19,12 @@ h2 {
 
 @media (max-width: 767px) {
   h1 {
-    color: red;
+    color: #7b7d70;
+  }
+  h2 {
+    color: #4eafb8;
+  }
+  h3 {
+    color: #ff8641;
   }
 }
